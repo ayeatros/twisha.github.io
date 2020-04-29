@@ -1,37 +1,7 @@
-## Welcome to GitHub Pages
+# TWISHA
+Twisha, or The Women In Self-Health Awareness, is a project by GramSheel Foundation. The scope of Project Twisha include women’s health issues (direct objective), child health issues (parallel objective), and domestic health issues (indirect objective targeting alcoholism, sanitation, water etc.).
 
-You can use the [editor on GitHub](https://github.com/srija-ieee/twisha.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Twisha produces kits for assessing self-health, related books, and simple health packets (containing PCC etc.). The media initiatives under Twisha produce blogs, articles, and tweets. Along with this Twisha trains volunteers as self-health awareness enablers. Twisha also produces videos covering expert advice and panel discussions or events related to women’s health issues.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Twisha’s activities include and are based on strong research and development (R&D). This primarily concerns medical research on women’s health issues and medical devices / telemedicine for women.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/srija-ieee/twisha.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
